@@ -14,6 +14,7 @@ public class ComputeBMI {
 
         input.close();
 
+        //Switch cases for clicking the characters
         switch (letter) {
             case 'a' ,'b' ,'c':
                 System.out.println("Please press 2");
